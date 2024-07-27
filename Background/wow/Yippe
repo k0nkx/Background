@@ -1,0 +1,10 @@
+{
+  "name": "Vamp_iphone",
+  "version": "1.1",
+  "description": "Vamp Anime Girl",
+  "background": {
+    "blur": 0.1,
+    "url": "https://github.com/melonwer/themes/blob/1bad8fed07f5c6e8af52302ead6053fd729cec90/vampgirlip.PNG?raw=true",
+    "alpha": 1.0
+  }
+}
